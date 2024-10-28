@@ -1,0 +1,10 @@
+matplotlib
+pandas
+scikit-learn
+numpy<2.0
+torch==1.12.0
+einops==0.4.0
+sympy==1.11.1
+statsmodels
+PyWavelets>=1.0.0
+git+https://github.com/fbcotter/pytorch_wavelets.git    # pytorch_wavelets
